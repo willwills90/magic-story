@@ -4,7 +4,7 @@
 
 int main() {
 
-  int choice1, choice2, choice3, choice4, choice5;
+  int choice1, choice2, choice3, choice4;
   std::string user;
 
 
